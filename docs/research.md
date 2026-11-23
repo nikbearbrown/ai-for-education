@@ -1,0 +1,18 @@
+# Research and papers
+
+This is a project index, not a list of peer-reviewed publications. Manuscripts, protocols, and public writing are labeled separately.
+
+| Work | Current public record | Scope |
+| --- | --- | --- |
+| **AI readiness for university courses** | [AI Readiness framework and toolkit](https://github.com/nikbearbrown/ai-readiness), [INFO 6205 pilot](info-6205-pilot.md). No standalone public research manuscript or outcome study was verified. | Can faculty and agents turn source materials into auditable AI-ready courses without losing teaching intent or independent assessment? |
+| **A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education** | [arXiv preprint](https://arxiv.org/abs/2605.04131), May 2026; no journal or conference publication verified. | Evaluates a dialogue intervention for AI tutoring on multimodal physics problems, not student learning outcomes. |
+| **Measuring the Struggle: The Genuine Learning Probability Framework** | [Public preprint](https://www.nikbearbrown.com/notes/Papers/glp-framework-genuine-learning-probability.html), not peer reviewed. | Theoretical framework for evidence of learning; not a validated learning score. |
+| **Frictional process evidence** | [Frictional skill](https://github.com/nikbearbrown/frictional) is software; related tool-evaluation and classroom-study outlines are work in progress. | Distinguish project artifacts, effort evidence and actual learning; no classroom outcome claimed. |
+| **Irreducibly Human Work Lexicon** | [Working manuscript](https://github.com/nikbearbrown/irreducibly-human-work-lexicon/blob/main/Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md). | Auditable skill vocabulary for matching curricula and job postings; not proof of learning or validity across institutions. |
+| **Irreducibly Human Facets** | [Public methods and replication materials](https://github.com/nikbearbrown/irreducibly-human-facets), not a public results manuscript. | Developing a way to classify facets of work with independent coding. |
+| **A New Shape for Work** | [Public working manuscript](https://github.com/nikbearbrown/a-new-shape-for-work/blob/main/paper/manuscript.md), not a journal publication. | Distinguishes modeled work, hiring-language evidence and observations of AI use. |
+| **The Junior’s Curve** | [Public project and methods](https://github.com/nikbearbrown/the-juniors-curve); no standalone manuscript linked here. | One study concerns what employers ask of entry-level STEM workers. A separate proposed study asks how coding agents affect the work and learning of first-year developers. No new results reported. |
+| **Structured Skill Taxonomies vs. Large Language Models** | [IEEE ICAD 2026 program](https://ieee-icad.org/icad-2026-june-12/) lists the accepted contribution by Yash Gopalji Pankhania and Nik Bear Brown; proceedings entry and DOI were not verified. | Curriculum-level skill inference using structured taxonomies and language models. |
+| **Educational AI Case Studies** | [Public practitioner writing](https://www.nikbearbrown.com/blog/educational-ai-case-studies), not peer-reviewed research. | Examples for instructors and future research questions. |
+
+Practicable first research contribution: run the same AI Readiness protocol on a small, permissioned set of courses. Freeze definitions and sample selection before comparison. Report audit agreement, required faculty corrections, export/import fidelity, and learner outcomes as separate measures. Do not treat a readiness audit or a valid file as evidence that students learned more.
