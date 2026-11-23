@@ -21,6 +21,6 @@ Use these within your course’s AI and disclosure policy. Keep your own attempt
 | Make videos, lecture slides, and teaching figures | [Brutalist](https://github.com/nikbearbrown/brutalist.art), [Brutalist Slides](https://github.com/nikbearbrown/brutalist-slides), [Figma Slides](https://github.com/nikbearbrown/figma-slides), and [Figma Data Visualization](https://github.com/nikbearbrown/figma-data-visualization) |
 | Review project evidence or critique a paper | [Frictional](https://github.com/nikbearbrown/frictional) and [Critique](https://github.com/nikbearbrown/critique) |
 
-[See the full teaching and research skills catalog](../docs/faculty-toolkit.md), including Figma Webdesigner, textbook authoring, scientific figure review, and reproducibility. Do not treat tool output as a grade or upload student work to an unapproved service.
+[Browse the expanded index of public skill repositories](repository-index.md). [See the teaching and research skills guide](../docs/faculty-toolkit.md), including Figma Webdesigner, textbook authoring, scientific figure review, and reproducibility. Do not treat tool output as a grade or upload student work to an unapproved service.
 
 [Back to AI for Education](../README.md)

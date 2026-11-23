@@ -69,7 +69,7 @@ Each row links one recommended **public reading or source entry** for a work or 
 | [AI for Learning Experience Design](https://github.com/nikbearbrown/ai-for-learning-experience-design) | Separate AI-focused chapter-based candidate. |
 | [Visible Learning × AI](https://github.com/nikbearbrown/learning-when-to-use-and-when-not-to-use-ai) | Fuller public manuscript; different repository slug from book title. |
 | [The Reallocation Engine](https://github.com/nikbearbrown/the-reallocation-engine/tree/main/book) | Career and education companion manuscript; book-specific CC BY 4.0 terms are separate from code and third-party data. |
-| [Living Models](https://github.com/nikbearbrown/living-models-book) | Chapter-based book candidate. |
+| [Living Models](https://github.com/nikbearbrown/Living-Models) | Fuller manuscript; the separately named book draft has the same title and is not counted again. |
 
 ## Further course and practitioner resources
 

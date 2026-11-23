@@ -12,7 +12,7 @@ What do employers ask of new graduates? How do those requirements relate to what
 
 A job posting is evidence of an advertised role, not a hire, a measure of day-to-day work, or proof that AI changed a job. A map entry is a lead, not a confirmed vacancy.
 
-[See the full research and papers index](../docs/research.md) for AI readiness, classroom and project evidence, and related research. Entries distinguish preprints, working drafts, methods, and tools.
+[Browse the expanded paper and research repository index](papers.md). [See publication and evidence status](../docs/research.md) for AI readiness, classroom and project evidence, and related research. Entries distinguish preprints, working drafts, methods, and tools.
 
 ## Jobs Map
 
