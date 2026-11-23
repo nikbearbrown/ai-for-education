@@ -1,18 +1,23 @@
 # AI for Education
 
-Start with a strong university textbook. Check how well it supports teaching with AI. Then give the instructor an editable, source-grounded course draft they can shape through conversation and export to their learning management system.
+[Medhavy](https://www.medhavy.com/) is an interactive textbook platform. It gives students a place to read course material and ask questions grounded in the text. **AI for Education** brings together the work to help instructors adapt those textbooks into their own AI-ready courses, the skills students and faculty can use, and our research on AI and the job market.
 
-## Start here
+## Build a course with Medhavy
 
-- [Medhavy](docs/medhavy.md): the textbook platform and the status of its MCP.
-- [University textbook catalog](catalog/textbooks.md): one recommended public source per work or distinct volume, with gaps and reuse restrictions called out.
-- [AI Readiness review](docs/textbook-readiness.md): what we check in the source and in the course built from it.
-- [INFO 6205 pilot](docs/info-6205-pilot.md): the first verified local textbook scan and structural cartridge test.
-- [Course workflow](docs/course-workflow.md): choose a book, draft and revise through MCP, review, download an IMSCC cartridge, then import into a sandbox.
-- [Faculty skills and tools](docs/faculty-toolkit.md): practical workflows for teaching, design, media, assessment, and research.
-- [Research and papers](docs/research.md): public working papers, protocols, and active studies with evidence status.
-- [Contributing](contributing.md): concrete work collaborators can help with.
+Start with a textbook from the [university textbook catalog](catalog/). The Medhavy MCP we are designing will let an instructor select a book and work with an AI assistant to **rewrite, reorder, or replace material in their own course draft**, without changing the original book. The instructor can set prerequisites and learning outcomes, adapt readings and examples, and add activities, assessments, and rubrics.
 
-**What works today:** Medhavy has an existing textbook platform. The separate AI Readiness toolkit scans course material, and its ARC CLI can build and validate a basic cartridge locally.
+Run [AI Readiness](docs/textbook-readiness.md) on that draft. The review checks what students do before using AI, how they verify its output, and how the course assesses their own reasoning. The instructor decides what to change. The intended last step is a downloadable **IMS Common Cartridge (.imscc)** that the instructor can import into Canvas and review before publishing.
 
-**What we are building:** the connected workflow that lets an instructor select an authorized book, revise a course draft through Medhavy MCP, and download a cartridge that has been tested in Canvas. The first local package is not a verified Canvas import. No textbook is marked fully AI-ready solely because it is in the catalog.
+Medhavy’s textbook platform exists today. The separate [INFO 6205 pilot](docs/info-6205-pilot.md) packaged a textbook locally as a basic cartridge. The full MCP workflow and a Canvas import have not been verified. [See the course-building workflow and current status](docs/).
+
+## Educational skills for students and faculty
+
+[Explore the skills](skills/). Students can use them to check AI output, improve research and writing, document their work, and build projects. Faculty can use them to design courses and assessments, make lectures with **Brutalist** or **Figma**, and review project evidence with **Frictional**.
+
+## AI jobs research
+
+[See the research](research/). We study what employers ask of new entrants, how advertised skills relate to what universities teach, and how AI may change what people do at work. Job ads tell us what employers state, not who was hired or how people spend their time. The research section separates these studies from the broader work on classroom AI readiness and learning.
+
+## Jobs Map
+
+[Open the Humanitarians AI Jobs Map](https://jobs.humanitarians.ai/) to explore the public map of research labs and organizations. Use it to find places to investigate, then verify openings and ways to get involved at the source.
