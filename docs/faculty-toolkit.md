@@ -46,4 +46,8 @@ Start with the work you need to do. These are procedures and production tools, n
 | [PaperOrchestra](https://github.com/google-research/paper-orchestra) | Stage outlining, literature, sections and figures. Upstream automation has model and configuration requirements; prepare a reviewable source ledger first. |
 | [Critique / CRITIQ](https://github.com/nikbearbrown/critique) and [Peer Review](https://github.com/nikbearbrown/bear-brown-tools/tree/main/skills/peer-review) | Audit research claims, methods, statistics and actual figures, and keep a revision record. These tools do not replace independent peer review. |
 
+### Reproducibility bundle
+
+Use [Research](https://github.com/nikbearbrown/skills/blob/main/skills/research/SKILL.md) to trace claims to primary sources, [Verification Before Completion](https://github.com/nikbearbrown/skills/blob/main/skills/verification-before-completion/SKILL.md) to record what was actually checked, and [Handoff](https://github.com/nikbearbrown/skills/blob/main/skills/handoff/SKILL.md) to keep decisions, open questions and next steps visible. [The Research Paper Recipe](https://github.com/nikbearbrown/the-research-paper-recipe) and [Validating Output from AI Systems](https://github.com/nikbearbrown/validating-output-from-ai-systems) are companion books, not installable skills.
+
 For a first teaching pilot, combine Syllabus Architect, AI Readiness, one explainer workflow, and Frictional. Verify the chosen artifact itself: review lesson outcomes, check captions, alt text and readings, inspect a graded exercise for independent reasoning, and test delivery in the learner view. Keep student work and private research artifacts in authorized institutional systems.
